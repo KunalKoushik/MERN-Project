@@ -4,6 +4,7 @@
 
 html,
 body {
+  width: screen;
   overflow-x: hidden;
 }
 
